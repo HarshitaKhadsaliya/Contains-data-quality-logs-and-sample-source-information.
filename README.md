@@ -1,14 +1,14 @@
 ## 📌 Problem Statement
-Dark store supply chains require rapid inventory turnover and minimal fulfillment latency. This project analyzes operational bottlenecks, delivery time distributions, inventory shrinkage, and regional demand patterns for QuickKart to optimize fulfillment efficiency and reduce operational costs.
+Dark store supply chains require rapid inventory turnover and minimal fulfillment latency. This project analyzes operational bottlenecks, delivery time distributions, inventory shrinkage, and regional demand patterns for QuickKart to optimize fulfillment efficiency and reduce operational costs.Quick-commerce platforms rely heavily on sub-15-minute fulfillment windows. Managing inventory stock-outs, rider delivery gaps, and peak-hour bottlenecks across multi-city dark store networks requires rigorous data profiling, normalized database design, and real-time operational dashboarding.
 
 ---
 
 ## 🛠️ Tools & Technologies Used
 * **SQL (MySQL Workbench / SQL Server):** Data extraction, cleaning, and complex aggregations using window functions.
 * **Python (Jupyter Notebook):** Exploratory Data Analysis (EDA), statistical evaluation, and data pipeline modeling (`pandas`, `numpy`, `seaborn`, `matplotlib`).
-* **Microsoft Excel:** Initial data validation, exploratory pivot tables, and data-quality logging.
-* **Power BI Desktop:** Interactive dashboard design, DAX measures, and data modeling.
-* **PowerPoint:** Executive presentation deck.
+**Excel / Dashboarding**: OpenPyxl, `XLOOKUP`, `COUNTIFS/SUMIFS` mixed-reference grids, PivotTables, Slicers, and interactive KPI cards.
+**Power BI Desktop:** Interactive dashboard design, DAX measures, and data modeling.
+**PowerPoint:** Executive presentation deck.
 
 ---
 
